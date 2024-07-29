@@ -689,3 +689,13 @@ video {
   --tw-text-opacity: 1;
   color: hsl(0 0% 100% / var(--tw-text-opacity));
 }
+
+.hover\:bg-green:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(75 94% 57% / var(--tw-bg-opacity));
+}
+
+.hover\:text-gray900:hover {
+  --tw-text-opacity: 1;
+  color: hsl(0 0% 8% / var(--tw-text-opacity));
+}
