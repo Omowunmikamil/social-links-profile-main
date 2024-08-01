@@ -703,3 +703,9 @@ video {
   --tw-text-opacity: 1;
   color: hsl(0 0% 8% / var(--tw-text-opacity));
 }
+
+@media not all and (min-width: 640px) {
+  .max-sm\:h-\[29rem\] {
+    height: 29rem;
+  }
+}
