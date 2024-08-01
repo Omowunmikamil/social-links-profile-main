@@ -708,4 +708,8 @@ video {
   .max-sm\:h-\[29rem\] {
     height: 29rem;
   }
+
+  .max-sm\:p-8 {
+    padding: 2rem;
+  }
 }
