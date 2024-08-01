@@ -712,4 +712,8 @@ video {
   .max-sm\:p-8 {
     padding: 2rem;
   }
+
+  .max-sm\:p-7 {
+    padding: 1.75rem;
+  }
 }
